@@ -15,8 +15,7 @@ scikit-learn==1.4.2
 
 # tensorflow==2.11.0  # Compatible for cross-platform GPU without CUDA (Metal for Mac, CPU for others)
 tensorflow==2.19.0
-tensorflow-macos  # for Mac OS
-tensorflow-metal # for Mac OS
+
 
 # LSTM & Neural Networks
 keras==3.6.0  # Version compatible with TensorFlow 2.11.0
